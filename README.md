@@ -6,7 +6,7 @@ You will be given two versions of publicly available Apple Music’s Terms & Con
 2.	Suggestions for standardizing the T&Cs to create a more consistent format.
 We would like to see a solution that attempts to leverage LLMs to assist this analysis (irrespective of whether this is in fact the best approach for this task).
 
-## I decided to implement a full RAG lifecyle using LLamaIndex v.0.9.6
+## I decided to implement a full RAG lifecyle using LLamaIndex v.0.9.4
 
 
 
